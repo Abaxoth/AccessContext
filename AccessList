@@ -1,9 +1,9 @@
 [
   {
     "key": "1603d114-4e66-4818-9de9-221cc1efdb10",
-    "isEnabled": true,
-    "errorMessage": "Can't add access",
+    "isEnabled": false,
+    "errorMessage": "Error 666",
     "name": "Venbest alert monitor",
-    "descriptions": "Venbest access token"
+    "descriptions": ""
   }
   ]
