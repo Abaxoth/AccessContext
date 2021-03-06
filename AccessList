@@ -1,7 +1,7 @@
 [
   {
     "key": "1603d114-4e66-4818-9de9-221cc1efdb10",
-    "isEnabled": false,
+    "isEnabled": true,
     "errorMessage": "Error 666",
     "name": "Venbest alert monitor",
     "descriptions": ""
