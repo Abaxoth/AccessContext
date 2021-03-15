@@ -5,5 +5,12 @@
     "errorMessage": "Error 666",
     "name": "Venbest alert monitor",
     "descriptions": ""
+  },
+  {
+    "key": "e139a4b0-cc7f-4b2b-81e7-c8849e2fe0d3",
+    "isEnabled": true,
+    "errorMessage": "Error 666",
+    "name": "Venbest db agent",
+    "descriptions": ""
   }
   ]
